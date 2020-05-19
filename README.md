@@ -4,3 +4,5 @@ An analysis of Global CO2 emissions have been made, looking in to the trends and
 Second Assignment includes an A/B Test. A/B tests are very commonly performed by data analysts and data scientists. A particular hypothesis was selected and the validity was checked using, bootstrapping, regressions and functions inbuilt in python
 
 Third Assignment is all about Data scraping. Twitter Archives #WeRateDogs was analysed and certain conclusions and visualisations are made
+
+Final assignment assess Prosper Loan Data and ifentifies various relations between the Original Loan amount and other parameters such as Borrowers Rate, Effective Yield etc.
